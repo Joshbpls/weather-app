@@ -21,7 +21,7 @@
     "dotenv": "^8.1.0",
     "http-proxy-middleware": "^0.20.0",
     "lambda-rate-limiter": "^2.4.26",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "netlify-lambda": "^1.6.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
